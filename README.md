@@ -1,117 +1,91 @@
-# Arav Madan
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Arav%20Madan&fontAlign=50&fontAlignY=36&desc=Software%20Engineer%20%7C%20Product%20Web%20Apps%20%7C%20AI%20Features&descAlign=50&descAlignY=58&color=0:0f172a,100:2563eb&fontColor=ffffff" alt="Arav Madan banner" />
+</div>
 
-**Software engineer building product-focused web apps, AI features, and polished user experiences.**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=760&lines=Building+product-focused+web+apps;Frontend+systems+with+a+production+mindset;AI+features%2C+release+hardening%2C+real-user+flows" alt="Typing intro" />
+</div>
 
-I like shipping software that has to work under real constraints: auth flows, billing edges, analytics, performance, tests, launch readiness, and UI that people actually want to use.
+<div align="center">
+  <img src="https://img.shields.io/badge/private%20work-public%20signal-2563eb?style=for-the-badge&labelColor=111827" alt="Private work, public signal" />
+  <img src="https://img.shields.io/badge/330%2B-visible%20commits-1d4ed8?style=for-the-badge&labelColor=111827" alt="330+ visible commits" />
+  <img src="https://img.shields.io/badge/AI%20product%20work-1e40af?style=for-the-badge&labelColor=111827" alt="AI product work" />
+  <img src="https://img.shields.io/badge/frontend%20systems-1e3a8a?style=for-the-badge&labelColor=111827" alt="Frontend systems" />
+</div>
 
-Most of my strongest work is in private or collaborator repositories, so this profile is structured as a portfolio summary rather than a list of public repos.
+<p align="center">
+  I build software that has to survive real use: auth, billing, analytics, testing, performance, and UI that still feels intentional.
+</p>
 
-## What I Build
+<p align="center">
+  Much of my strongest work lives in private or collaborator repositories, so this profile is designed to show the shape of my work without exposing internal project details.
+</p>
 
-- Product web apps with real user flows, not just static demos
-- AI-assisted tools and workflows with practical UX around them
-- Frontend-heavy experiences that still respect reliability, testing, and performance
-- Internal and launch-facing systems where edge cases matter
+## Snapshot
 
-## Selected Work
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>What I usually work on</strong>
+      <ul>
+        <li>Product web apps with real user flows</li>
+        <li>AI-assisted features and workflows</li>
+        <li>Frontend-heavy builds with strong UX expectations</li>
+        <li>Pre-launch and post-launch engineering cleanup</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <strong>What that usually includes</strong>
+      <ul>
+        <li>Auth and route protection</li>
+        <li>Billing, throttling, and abuse prevention</li>
+        <li>Analytics, performance, and responsive fixes</li>
+        <li>Regression tests, release gates, and bug triage</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### Pitchr
-AI pitch coaching product for founder practice.
+## Selected Signals
 
-What I shipped:
-- Auth and route-protection fixes across protected app flows
-- Billing hardening, rate limiting, and anti-abuse safeguards on public write routes
-- GDPR and compliance-related consent flows and middleware enforcement
-- Playwright and regression-test stabilization for launch-critical journeys
-- Release-gate and launch-readiness fixes across analytics, redirects, and funnel behavior
+| Area | What I have been shipping |
+| --- | --- |
+| AI product platform work | Session flows, analysis features, middleware hardening, test stabilization, and launch-critical fixes in a collaborator product. |
+| Client-facing product builds | Conversion-focused UX, forms, analytics instrumentation, and operational polish for private business-facing web work. |
+| App and media tooling | Import flows, playback behavior, library management, and sync-oriented feature development in private application work. |
+| Interactive frontend work | Mobile performance tuning, rendering fixes, progression flow cleanup, and interaction polish in private experiments. |
 
-Why it matters:
-This is the clearest example of me working beyond feature work and into production-minded engineering: reliability, test coverage, edge cases, and launch pressure.
+## Engineering Style
 
-Project:
-- [pitchr app](https://pitchr-psi.vercel.app)
-- [pitchr repo](https://github.com/JuliusBrussee/pitchr)
+- I care about polish, but not at the expense of reliability.
+- I like frontend work most when it is connected to real product constraints.
+- A lot of my useful work happens late in the cycle: fixing edge cases, stabilizing tests, and getting software ready to ship.
+- I would rather make a flow resilient than make a demo look complete.
 
-### Myoclinix
-Private healthcare/business website project with booking and conversion-focused UX work.
+## Private Work, Public Signal
 
-What I shipped:
-- Booking modal improvements across service flows
-- Contact-form behavior aligned with booking UX
-- Map and media updates that reduced unnecessary external dependency friction
-- Analytics instrumentation for measuring usage after launch
+The public side of this account is not the full story.
 
-Why it matters:
-This project shows product iteration in a business setting: UX cleanup, operational polish, analytics, and customer-facing improvements rather than just greenfield coding.
+What is visible:
+- `330+` authored commits across private, personal, and collaborator repositories
+- sustained work in product engineering, frontend systems, and release hardening
+- a contribution pattern centered on shipping features and then making them production-safe
 
-Project:
-- [live site](https://myoclinix.vercel.app)
-
-### MusicApp
-Private music application built in structured slices.
-
-What I shipped:
-- Import flow and songs view
-- Playback core and queue behavior
-- Albums and artists library UX
-- Playlist and local asset support
-- Library synchronization and background watcher groundwork
-
-Why it matters:
-This project highlights end-to-end feature development across product slices, from ingestion and playback to richer library management.
-
-### Mello Game
-Interactive web experience/game with a strong frontend and motion focus.
-
-What I shipped:
-- Mobile performance improvements for lower-end devices
-- UI and rendering fixes for viewport, overlays, and progression flow
-- Interaction polish around navigation, panning, and feedback states
-- Visual refinements to keep the experience smooth and readable on mobile
-
-Why it matters:
-This shows I can work on delight-oriented UI without losing discipline around performance and bug fixing.
-
-Project:
-- [live site](https://mellogame.vercel.app)
-- [repo](https://github.com/aravmdn/mello_game)
-
-### Personal Site / Index
-Ongoing personal web presence and portfolio iteration.
-
-What I shipped:
-- Content and resume updates
-- Structural refactors from single-file work into a more maintainable setup
-- Revisions to project framing, stack details, and portfolio presentation
-
-Why it matters:
-This is where I iterate on how I present work, communicate clearly, and turn engineering output into something legible for other people.
-
-## Engineering Themes
-
-- **Product-minded engineering:** I care about the feature, but also about whether it survives real use.
-- **Frontend with backbone:** I enjoy UI work, but I usually pair it with auth, analytics, testing, or performance concerns.
-- **Launch discipline:** A lot of my contribution history is about the work right before release, when details matter most.
-- **Private work, public signal:** Several of my best projects are private, so I summarize the systems and problems I solved instead of pretending the public graph tells the full story.
-
-## What Shows Up on GitHub
-
-- `330+` authored commits visible to my account across private, personal, and collaborator repositories
-- Heavy contribution concentration in `pitchr`, plus sustained work in product, game, and portfolio projects
-- A commit history that includes feature work, test stabilization, performance fixes, release prep, and production-oriented hardening
-
-If you are reviewing my profile, the best signal is not just my public repos. It is the pattern of work across shipped features, private builds, and collaborator projects.
+What that means in practice:
+- I have worked on software where the hard part was not just building the feature, but making the feature hold up under real usage, real edge cases, and real deadlines.
 
 ## Current Focus
 
-- Building stronger full-stack product instincts around AI-assisted apps
-- Shipping private projects to a higher standard of polish and reliability
-- Making my public profile better reflect the actual work I have been doing
+- shipping sharper full-stack product work around AI-assisted apps
+- turning private project depth into a stronger public portfolio
+- building a profile that reflects engineering taste as well as output
 
-## Contact
+## Elsewhere
 
-- GitHub: [@aravmdn](https://github.com/aravmdn)
+- GitHub: `@aravmdn`
 
 ---
 
-_Profile note: because much of my work is private, this README is intentionally written as a portfolio summary. Public repo count alone is not a good proxy for the scope of my experience._
+<p align="center">
+  <sub>This README is intentionally written as a compact portfolio homepage, not a raw project index.</sub>
+</p>
