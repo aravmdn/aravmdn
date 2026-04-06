@@ -22,7 +22,7 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/OpenAI-3B82F6?style=flat-square&labelColor=111827" height="30" alt="OpenAI" />
+  <img src="./assets/openai-blue.svg" width="30" alt="OpenAI" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" alt="TypeScript" />
   &nbsp;
