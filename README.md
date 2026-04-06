@@ -7,10 +7,10 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/private%20work-public%20signal-2563eb?style=for-the-badge&labelColor=111827" alt="Private work, public signal" />
-  <img src="https://img.shields.io/badge/330%2B-visible%20commits-1d4ed8?style=for-the-badge&labelColor=111827" alt="330+ visible commits" />
-  <img src="https://img.shields.io/badge/AI%20product%20work-1e40af?style=for-the-badge&labelColor=111827" alt="AI product work" />
-  <img src="https://img.shields.io/badge/frontend%20systems-1e3a8a?style=for-the-badge&labelColor=111827" alt="Frontend systems" />
+  <code>AI product work</code>
+  <code>Frontend systems</code>
+  <code>Launch hardening</code>
+  <code>Private portfolio</code>
 </div>
 
 <p align="center">
@@ -21,12 +21,18 @@
   Much of my strongest work lives in private or collaborator repositories, so this profile is designed to show the shape of my work without exposing internal project details.
 </p>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,tailwind,playwright,vercel" alt="Core tools" />
+</div>
+
+> I like the part of engineering where a feature stops being a demo and starts being durable.
+
 ## Snapshot
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>What I usually work on</strong>
+      <strong>Build</strong>
       <ul>
         <li>Product web apps with real user flows</li>
         <li>AI-assisted features and workflows</li>
@@ -35,7 +41,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <strong>What that usually includes</strong>
+      <strong>Stabilize</strong>
       <ul>
         <li>Auth and route protection</li>
         <li>Billing, throttling, and abuse prevention</li>
@@ -46,7 +52,24 @@
   </tr>
 </table>
 
-## Selected Signals
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Taste</strong><br />
+      Clean interfaces, sharp hierarchy, and fewer but better details.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Bias</strong><br />
+      I would rather harden a fragile flow than add a flashy extra feature.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Fit</strong><br />
+      Best in product teams where frontend quality and shipping discipline both matter.
+    </td>
+  </tr>
+</table>
+
+## Signals From Recent Work
 
 | Area | What I have been shipping |
 | --- | --- |
@@ -67,9 +90,9 @@
 The public side of this account is not the full story.
 
 What is visible:
-- `330+` authored commits across private, personal, and collaborator repositories
 - sustained work in product engineering, frontend systems, and release hardening
 - a contribution pattern centered on shipping features and then making them production-safe
+- repeated contribution in both personal and collaborator repositories, not just isolated experiments
 
 What that means in practice:
 - I have worked on software where the hard part was not just building the feature, but making the feature hold up under real usage, real edge cases, and real deadlines.
@@ -79,10 +102,6 @@ What that means in practice:
 - shipping sharper full-stack product work around AI-assisted apps
 - turning private project depth into a stronger public portfolio
 - building a profile that reflects engineering taste as well as output
-
-## Elsewhere
-
-- GitHub: `@aravmdn`
 
 ---
 
