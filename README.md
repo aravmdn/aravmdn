@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Arav%20Madan&fontAlign=50&fontAlignY=36&desc=Software%20Engineer%20%7C%20Product%20Web%20Apps%20%7C%20AI%20Features&descAlign=50&descAlignY=58&color=0:0f172a,100:2563eb&fontColor=ffffff" alt="Arav Madan banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Arav%20Madan&fontAlign=50&fontAlignY=36&desc=AI%20Product%20Engineer%20%7C%20Full-Stack%20Systems%20%7C%20Product%20Reliability&descAlign=50&descAlignY=58&color=0:0f172a,100:2563eb&fontColor=ffffff" alt="Arav Madan banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=760&lines=Building+product-focused+web+apps;Frontend+systems+with+a+production+mindset;AI+features%2C+release+hardening%2C+real-user+flows" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=820&lines=AI+product+engineering+for+real+users;Full-stack+systems+around+model-driven+workflows;Apps%2C+infrastructure%2C+testing%2C+and+launch+hardening" alt="Typing intro" />
 </div>
 
 <div align="center">
-  <code>AI product work</code>
-  <code>Frontend systems</code>
+  <code>AI product engineer</code>
+  <code>Full-stack systems</code>
+  <code>Model-integrated apps</code>
   <code>Launch hardening</code>
-  <code>Private portfolio</code>
 </div>
 
 <p align="center">
-  I build software that has to survive real use: auth, billing, analytics, testing, performance, and UI that still feels intentional.
+  I build AI-powered product systems that connect models to real user flows, with the app logic, testing, analytics, and reliability work needed to actually ship them.
 </p>
 
 <p align="center">
@@ -22,10 +22,28 @@
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,tailwind,playwright,vercel" alt="Core tools" />
+  <img src="https://cdn.simpleicons.org/openai/3B82F6" width="30" alt="OpenAI" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="30" alt="Node.js" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="30" alt="Next.js" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="30" alt="React" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="30" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="30" alt="Docker" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="30" alt="GitHub Actions" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="30" alt="Linux" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="30" alt="Vercel" />
 </div>
 
-> I like the part of engineering where a feature stops being a demo and starts being durable.
+> I like the layer where AI stops being a demo and starts becoming a product.
 
 ## Snapshot
 
@@ -34,19 +52,19 @@
     <td width="50%" valign="top">
       <strong>Build</strong>
       <ul>
-        <li>Product web apps with real user flows</li>
-        <li>AI-assisted features and workflows</li>
-        <li>Frontend-heavy builds with strong UX expectations</li>
-        <li>Pre-launch and post-launch engineering cleanup</li>
+        <li>AI-integrated product features and workflows</li>
+        <li>Full-stack apps with real user flows</li>
+        <li>Product systems where UX and correctness both matter</li>
+        <li>Tools that connect models to practical application logic</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <strong>Stabilize</strong>
       <ul>
-        <li>Auth and route protection</li>
+        <li>Middleware, auth, and route protection</li>
         <li>Billing, throttling, and abuse prevention</li>
-        <li>Analytics, performance, and responsive fixes</li>
-        <li>Regression tests, release gates, and bug triage</li>
+        <li>Evaluation-minded testing, release gates, and bug triage</li>
+        <li>Analytics, performance, and launch-risk cleanup</li>
       </ul>
     </td>
   </tr>
@@ -64,7 +82,7 @@
     </td>
     <td width="33%" valign="top">
       <strong>Fit</strong><br />
-      Best in product teams where frontend quality and shipping discipline both matter.
+      Best in product teams where AI ambition, system quality, and shipping discipline all matter.
     </td>
   </tr>
 </table>
@@ -73,24 +91,24 @@
 
 | Area | What I have been shipping |
 | --- | --- |
-| AI product platform work | Session flows, analysis features, middleware hardening, test stabilization, and launch-critical fixes in a collaborator product. |
-| Client-facing product builds | Conversion-focused UX, forms, analytics instrumentation, and operational polish for private business-facing web work. |
-| App and media tooling | Import flows, playback behavior, library management, and sync-oriented feature development in private application work. |
-| Interactive frontend work | Mobile performance tuning, rendering fixes, progression flow cleanup, and interaction polish in private experiments. |
+| AI product systems | Analysis workflows, model-adjacent features, middleware hardening, test stabilization, and launch-critical fixes in collaborator work. |
+| Full-stack app delivery | Backend logic, frontend UX, stateful flows, and production cleanup across private product builds. |
+| Reliability before release | Redirect repair, auth protection, abuse prevention, regression stabilization, and pre-launch hardening. |
+| Iteration with taste | Interactive UI, mobile tuning, cleaner hierarchy, and product polish without losing engineering discipline. |
 
 ## Engineering Style
 
 - I care about polish, but not at the expense of reliability.
-- I like frontend work most when it is connected to real product constraints.
+- I like AI work most when it is embedded in a real product, not presented as a novelty.
 - A lot of my useful work happens late in the cycle: fixing edge cases, stabilizing tests, and getting software ready to ship.
-- I would rather make a flow resilient than make a demo look complete.
+- I would rather make a system durable than make a prototype look finished.
 
 ## Private Work, Public Signal
 
 The public side of this account is not the full story.
 
 What is visible:
-- sustained work in product engineering, frontend systems, and release hardening
+- sustained work in AI product engineering, full-stack systems, and release hardening
 - a contribution pattern centered on shipping features and then making them production-safe
 - repeated contribution in both personal and collaborator repositories, not just isolated experiments
 
@@ -99,9 +117,9 @@ What that means in practice:
 
 ## Current Focus
 
-- shipping sharper full-stack product work around AI-assisted apps
+- shipping sharper AI-native product work with full-stack ownership
 - turning private project depth into a stronger public portfolio
-- building a profile that reflects engineering taste as well as output
+- building a public profile that reflects systems thinking as much as output
 
 ---
 
