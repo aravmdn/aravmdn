@@ -104,6 +104,23 @@
 | Reliability before release | Redirect repair, auth protection, abuse prevention, regression stabilization, and pre-launch hardening. |
 | Iteration with taste | Interactive UI, mobile tuning, cleaner hierarchy, and product polish without losing engineering discipline. |
 
+## Public Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/aravmdn/CollabBoards">CollabBoards</a></strong><br />
+      <sub>Node.js · Express · TypeScript · Prisma · PostgreSQL · Socket.IO · React · Vite</sub>
+      <p>A full-stack collaboration app with workspaces, boards, lists, cards, and real-time updates over Socket.IO. Ships JWT auth with access and refresh tokens, card metadata (assignee, labels, due date), a card activity feed, and a DB-backed integration test suite. Deployed on Railway with automated migration on start.</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/aravmdn/rampart">Rampart</a></strong><br />
+      <sub>Rust · Tauri · TypeScript · Windows Job Objects · WFP · ETW · pnpm workspaces</sub>
+      <p>A local-first security product for running AI coding agents under enforced least privilege. Wraps agent execution in real OS controls — Windows Job Objects for process containment, Low Integrity filesystem restriction, per-app WFP network blocking — and surfaces blocked actions with structured violation explanations and safe policy refinement in a Tauri desktop app. Open source under Apache 2.0.</p>
+    </td>
+  </tr>
+</table>
+
 ## Engineering Style
 
 - I care about polish, but not at the expense of reliability.
