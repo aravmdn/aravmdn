@@ -41,6 +41,14 @@
   <img src="https://cdn.simpleicons.org/linux/FCC624" width="30" alt="Linux" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="30" alt="Vercel" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="30" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/anthropic/FFFFFF" width="30" alt="Anthropic" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" alt="Tailwind CSS" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/stripe/635BFF" width="30" alt="Stripe" />
 </div>
 
 > I like the layer where AI stops being a demo and starts becoming a product.
