@@ -7,11 +7,13 @@
 </div>
 
 <div align="center">
-  <code>AI product engineer</code>
-  <code>Full-stack systems</code>
-  <code>Model-integrated apps</code>
+  <code>AI product engineer</code>&nbsp;&nbsp;
+  <code>Full-stack systems</code>&nbsp;&nbsp;
+  <code>Model-integrated apps</code>&nbsp;&nbsp;
   <code>Launch hardening</code>
 </div>
+
+<br />
 
 <p align="center">
   I build AI-powered product systems that connect models to real user flows, with the app logic, testing, analytics, and reliability work needed to actually ship them.
@@ -26,6 +28,8 @@
   &nbsp;
   <img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" alt="TypeScript" />
   &nbsp;
+  <img src="https://cdn.simpleicons.org/rust/CE422B" width="30" alt="Rust" />
+  &nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="30" alt="Node.js" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="30" alt="Next.js" />
@@ -38,8 +42,6 @@
   &nbsp;
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="30" alt="GitHub Actions" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="30" alt="Linux" />
-  &nbsp;
   <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="30" alt="Vercel" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/python/3776AB" width="30" alt="Python" />
@@ -51,7 +53,38 @@
   <img src="https://cdn.simpleicons.org/stripe/635BFF" width="30" alt="Stripe" />
 </div>
 
+<br />
+
 > I like the layer where AI stops being a demo and starts becoming a product.
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/aravmdn/rampart">🛡️ Rampart</a></h3>
+      <sub>Rust · Tauri · TypeScript · Windows Job Objects · WFP · ETW · pnpm workspaces</sub>
+      <p>A local-first security product for running AI coding agents under enforced least privilege. Wraps agent execution in real OS controls — Windows Job Objects for process containment, Low Integrity filesystem restriction, per-app WFP network blocking — and surfaces blocked actions with structured violation explanations and safe policy refinement in a Tauri desktop app. Open source under Apache 2.0.</p>
+      <p>
+        <img src="https://cdn.simpleicons.org/rust/CE422B" width="16" alt="Rust" />
+        <strong>Rust</strong> &nbsp;·&nbsp; AI agent safety &nbsp;·&nbsp; Windows-first
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/aravmdn/CollabBoards">📋 CollabBoards</a></h3>
+      <sub>Node.js · Express · TypeScript · Prisma · PostgreSQL · Socket.IO · React · Vite</sub>
+      <p>A full-stack collaboration app with workspaces, boards, lists, cards, and real-time updates over Socket.IO. Ships JWT auth with access and refresh tokens, card metadata (assignee, labels, due date), a card activity feed, and a DB-backed integration test suite. Deployed on Railway with automated migration on start.</p>
+      <p>
+        <img src="https://cdn.simpleicons.org/typescript/3178C6" width="16" alt="TypeScript" />
+        <strong>TypeScript</strong> &nbsp;·&nbsp; Real-time sync &nbsp;·&nbsp; Full-stack
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## Snapshot
 
@@ -95,6 +128,8 @@
   </tr>
 </table>
 
+---
+
 ## Signals From Recent Work
 
 | Area | What I have been shipping |
@@ -104,22 +139,7 @@
 | Reliability before release | Redirect repair, auth protection, abuse prevention, regression stabilization, and pre-launch hardening. |
 | Iteration with taste | Interactive UI, mobile tuning, cleaner hierarchy, and product polish without losing engineering discipline. |
 
-## Public Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/aravmdn/CollabBoards">CollabBoards</a></strong><br />
-      <sub>Node.js · Express · TypeScript · Prisma · PostgreSQL · Socket.IO · React · Vite</sub>
-      <p>A full-stack collaboration app with workspaces, boards, lists, cards, and real-time updates over Socket.IO. Ships JWT auth with access and refresh tokens, card metadata (assignee, labels, due date), a card activity feed, and a DB-backed integration test suite. Deployed on Railway with automated migration on start.</p>
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/aravmdn/rampart">Rampart</a></strong><br />
-      <sub>Rust · Tauri · TypeScript · Windows Job Objects · WFP · ETW · pnpm workspaces</sub>
-      <p>A local-first security product for running AI coding agents under enforced least privilege. Wraps agent execution in real OS controls — Windows Job Objects for process containment, Low Integrity filesystem restriction, per-app WFP network blocking — and surfaces blocked actions with structured violation explanations and safe policy refinement in a Tauri desktop app. Open source under Apache 2.0.</p>
-    </td>
-  </tr>
-</table>
+---
 
 ## Engineering Style
 
@@ -128,17 +148,21 @@
 - A lot of my useful work happens late in the cycle: fixing edge cases, stabilizing tests, and getting software ready to ship.
 - I would rather make a system durable than make a prototype look finished.
 
+---
+
 ## Private Work, Public Signal
 
 The public side of this account is not the full story.
 
-What is visible:
+**What is visible:**
 - sustained work in AI product engineering, full-stack systems, and release hardening
 - a contribution pattern centered on shipping features and then making them production-safe
 - repeated contribution in both personal and collaborator repositories, not just isolated experiments
 
-What that means in practice:
+**What that means in practice:**
 - I have worked on software where the hard part was not just building the feature, but making the feature hold up under real usage, real edge cases, and real deadlines.
+
+---
 
 ## Current Focus
 
