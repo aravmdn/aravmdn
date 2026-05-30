@@ -73,12 +73,32 @@
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/aravmdn/parkbench">🎢 Parkbench</a></h3>
+      <sub>Python · uv · pytest · CLI · game-theoretic scoring · multi-agent</sub>
+      <p>A modular benchmark arena for AI agents, themed as a theme park — each "ride" is a self-contained, scored test of a capability that produces a diagnostic skill profile. The v1 negotiation ride runs end-to-end: a seeded scenario generator, objective payoff scoring against a game-theoretic optimum and a weak baseline, scripted house personas, baseline/heuristic agents, and a <code>parkbench</code> CLI — reproducible under a passing test suite. Built to measure what single-agent benchmarks can't: negotiation, coalitions, trust, and robustness under pressure. MIT licensed.</p>
+      <p>
+        <img src="https://cdn.simpleicons.org/python/3776AB" width="16" alt="Python" />
+        <strong>Python</strong> &nbsp;·&nbsp; Multi-agent eval &nbsp;·&nbsp; Reproducible scoring
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/aravmdn/CollabBoards">📋 CollabBoards</a></h3>
       <sub>Node.js · Express · TypeScript · Prisma · PostgreSQL · Socket.IO · React · Vite</sub>
       <p>A full-stack collaboration app with workspaces, boards, lists, cards, and real-time updates over Socket.IO. Ships JWT auth with access and refresh tokens, card metadata (assignee, labels, due date), a card activity feed, and a DB-backed integration test suite. Deployed on Railway with automated migration on start.</p>
       <p>
         <img src="https://cdn.simpleicons.org/typescript/3178C6" width="16" alt="TypeScript" />
         <strong>TypeScript</strong> &nbsp;·&nbsp; Real-time sync &nbsp;·&nbsp; Full-stack
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/aravmdn/CBL">🎵 CBL</a></h3>
+      <sub>TouchDesigner · GLSL · MediaPipe · React · Vite · Web Audio API</sub>
+      <p>A live interactive art installation built around a Tibetan singing bowl, a person on camera, and reactive visuals. Runs GPU-side in TouchDesigner from a single laptop: MediaPipe body and hand tracking, a hand-driven particle system and body aura, cymatics, and bowl-audio chakra detection via live FFT — bowl sound drives color and pattern, heartbeat drives the pulse, and the camera anchors the aura to the person. Ships with a React/Vite canvas fallback and a unit, component, and Playwright E2E test suite.</p>
+      <p>
+        <img src="https://cdn.simpleicons.org/mediapipe/0097A7" width="16" alt="MediaPipe" />
+        <strong>Real-time visuals</strong> &nbsp;·&nbsp; Creative engineering &nbsp;·&nbsp; GPU
       </p>
     </td>
   </tr>
