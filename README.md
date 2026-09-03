@@ -41,9 +41,8 @@ Python, TypeScript, Rust, SQL. Next.js, Supabase, Tauri, TouchDesigner.
 
 ## Side quests
 
-Kickboxing twice a week — the best debugger I own · Harden jerseys, every era · modeled for a
-small brand and walked a runway once, quietly proud · jazz, R&B and rap, mostly Frank Ocean.
-Soulsborne boss rushes are their own form of meditation. Don't @ me.
+Basketball · modelling and runways · jazz, R&B and rap, mostly Frank Ocean.
+Soulsborne, where the only thing that ever gets patched is me.
 
 ---
 
