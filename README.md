@@ -39,6 +39,12 @@ May 2026. Apache-2.0.
 
 Python, TypeScript, Rust, SQL. Next.js, Supabase, Tauri, TouchDesigner.
 
+## Side quests
+
+Kickboxing twice a week — the best debugger I own · Harden jerseys, every era · modeled for a
+small brand and walked a runway once, quietly proud · jazz, R&B and rap, mostly Frank Ocean.
+Soulsborne boss rushes are their own form of meditation. Don't @ me.
+
 ---
 
 [LinkedIn](https://www.linkedin.com/in/aravmadan/) · [pitchr.live](https://pitchr.live)
