@@ -42,7 +42,7 @@ Python, TypeScript, Rust, SQL. Next.js, Supabase, Tauri, TouchDesigner.
 ## Side quests
 
 Basketball · modelling and runways · jazz, R&B and rap, mostly Frank Ocean.
-Soulsborne boss rushes when I want to think about nothing else.
+Soulsborne when I feel like a masochist.
 
 ---
 
