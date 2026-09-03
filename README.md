@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Arav Madan — infrastructure for AI agents" width="100%" />
+  <img src="./assets/header.svg" alt="Arav Madan — infrastructure for AI agents" width="100%" />
 </div>
 
 Third year CS at TU/e, in Eindhoven. I build the infrastructure around AI agents — the parts
