@@ -1,197 +1,63 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Arav%20Madan&fontAlign=50&fontAlignY=36&desc=AI%20Product%20Engineer%20%7C%20Full-Stack%20Systems%20%7C%20Product%20Reliability&descAlign=50&descAlignY=58&color=0:0f172a,100:2563eb&fontColor=ffffff" alt="Arav Madan banner" />
+  <img src="./assets/banner.svg" alt="Arav Madan — infrastructure for AI agents" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=820&lines=AI+product+engineering+for+real+users;Full-stack+systems+around+model-driven+workflows;Apps%2C+infrastructure%2C+testing%2C+and+launch+hardening" alt="Typing intro" />
+  <code>third year @ TU/e</code> &nbsp;·&nbsp;
+  <code>eindhoven</code> &nbsp;·&nbsp;
+  <code>agent infrastructure</code>
 </div>
 
-<div align="center">
-  <code>AI product engineer</code>&nbsp;&nbsp;
-  <code>Full-stack systems</code>&nbsp;&nbsp;
-  <code>Model-integrated apps</code>&nbsp;&nbsp;
-  <code>Launch hardening</code>
-</div>
-
-<br />
-
-<p align="center">
-  I build AI-powered product systems that connect models to real user flows, with the app logic, testing, analytics, and reliability work needed to actually ship them.
-</p>
-
-<p align="center">
-  Much of my strongest work lives in private or collaborator repositories, so this profile is designed to show the shape of my work without exposing internal project details.
-</p>
-
-<div align="center">
-  <img src="./assets/openai-blue.svg" width="30" alt="OpenAI" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" alt="TypeScript" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/rust/CE422B" width="30" alt="Rust" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="30" alt="Node.js" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="30" alt="Next.js" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="30" alt="React" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="30" alt="PostgreSQL" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="30" alt="Docker" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="30" alt="GitHub Actions" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="30" alt="Vercel" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="30" alt="Python" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/anthropic/FFFFFF" width="30" alt="Anthropic" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" alt="Tailwind CSS" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/stripe/635BFF" width="30" alt="Stripe" />
-</div>
-
-<br />
-
-> I like the layer where AI stops being a demo and starts becoming a product.
-
 ---
 
-## Featured Projects
+I build the infrastructure around AI agents — the parts that measure whether they work,
+and contain them when they don't.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/aravmdn/rampart">🛡️ Rampart</a></h3>
-      <sub>Rust · Tauri · TypeScript · Windows Job Objects · WFP · ETW · pnpm workspaces</sub>
-      <p>A local-first security product for running AI coding agents under enforced least privilege. Wraps agent execution in real OS controls — Windows Job Objects for process containment, Low Integrity filesystem restriction, per-app WFP network blocking — and surfaces blocked actions with structured violation explanations and safe policy refinement in a Tauri desktop app. Open source under Apache 2.0.</p>
-      <p>
-        <img src="https://cdn.simpleicons.org/rust/CE422B" width="16" alt="Rust" />
-        <strong>Rust</strong> &nbsp;·&nbsp; AI agent safety &nbsp;·&nbsp; Windows-first
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/aravmdn/parkbench">🎢 Parkbench</a></h3>
-      <sub>Python · uv · pytest · CLI · game-theoretic scoring · multi-agent</sub>
-      <p>A modular benchmark arena for AI agents, themed as a theme park — each "ride" is a self-contained, scored test of a capability that produces a diagnostic skill profile. The v1 negotiation ride runs end-to-end: a seeded scenario generator, objective payoff scoring against a game-theoretic optimum and a weak baseline, scripted house personas, baseline/heuristic agents, and a <code>parkbench</code> CLI — reproducible under a passing test suite. Built to measure what single-agent benchmarks can't: negotiation, coalitions, trust, and robustness under pressure. MIT licensed.</p>
-      <p>
-        <img src="https://cdn.simpleicons.org/python/3776AB" width="16" alt="Python" />
-        <strong>Python</strong> &nbsp;·&nbsp; Multi-agent eval &nbsp;·&nbsp; Reproducible scoring
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/aravmdn/CollabBoards">📋 CollabBoards</a></h3>
-      <sub>Node.js · Express · TypeScript · Prisma · PostgreSQL · Socket.IO · React · Vite</sub>
-      <p>A full-stack collaboration app with workspaces, boards, lists, cards, and real-time updates over Socket.IO. Ships JWT auth with access and refresh tokens, card metadata (assignee, labels, due date), a card activity feed, and a DB-backed integration test suite. Deployed on Railway with automated migration on start.</p>
-      <p>
-        <img src="https://cdn.simpleicons.org/typescript/3178C6" width="16" alt="TypeScript" />
-        <strong>TypeScript</strong> &nbsp;·&nbsp; Real-time sync &nbsp;·&nbsp; Full-stack
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/aravmdn/CBL">🎵 CBL</a></h3>
-      <sub>TouchDesigner · GLSL · MediaPipe · React · Vite · Web Audio API</sub>
-      <p>A live interactive art installation built around a Tibetan singing bowl, a person on camera, and reactive visuals. Runs GPU-side in TouchDesigner from a single laptop: MediaPipe body and hand tracking, a hand-driven particle system and body aura, cymatics, and bowl-audio chakra detection via live FFT — bowl sound drives color and pattern, heartbeat drives the pulse, and the camera anchors the aura to the person. Ships with a React/Vite canvas fallback and a unit, component, and Playwright E2E test suite.</p>
-      <p>
-        <img src="https://cdn.simpleicons.org/mediapipe/0097A7" width="16" alt="MediaPipe" />
-        <strong>Real-time visuals</strong> &nbsp;·&nbsp; Creative engineering &nbsp;·&nbsp; GPU
-      </p>
-    </td>
-  </tr>
-</table>
+### Building
 
----
+**[Parkbench](https://github.com/aravmdn/parkbench)** — a benchmark arena for AI agents, built as
+a theme park: each ride is a self-contained, scored test of one capability. Seven rides across four
+axes — social, economic, coding, safety. The negotiation and exchange rides grade against a provable
+optimum rather than a rubric, so a score means something outside its own scale.
 
-## Snapshot
+Ships an HTTP/JSON server so external agents can be scored over the wire, a static replay viewer, and
+an LLM reference agent. Every score is seed-reproducible and byte-identical across runs, processes and
+operating systems — enforced by determinism and fixture-provenance tests, not by convention.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Build</strong>
-      <ul>
-        <li>AI-integrated product features and workflows</li>
-        <li>Full-stack apps with real user flows</li>
-        <li>Product systems where UX and correctness both matter</li>
-        <li>Tools that connect models to practical application logic</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Stabilize</strong>
-      <ul>
-        <li>Middleware, auth, and route protection</li>
-        <li>Billing, throttling, and abuse prevention</li>
-        <li>Evaluation-minded testing, release gates, and bug triage</li>
-        <li>Analytics, performance, and launch-risk cleanup</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+`Python, zero runtime dependencies` &nbsp;·&nbsp; `440 tests` &nbsp;·&nbsp; `75 decision records` &nbsp;·&nbsp; `in active development`
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Taste</strong><br />
-      Clean interfaces, sharp hierarchy, and fewer but better details.
-    </td>
-    <td width="33%" valign="top">
-      <strong>Bias</strong><br />
-      I would rather harden a fragile flow than add a flashy extra feature.
-    </td>
-    <td width="33%" valign="top">
-      <strong>Fit</strong><br />
-      Best in product teams where AI ambition, system quality, and shipping discipline all matter.
-    </td>
-  </tr>
-</table>
+### In production
 
----
+**[Pitchr](https://pitchr.live)** — AI pitch coaching for founders. Live recording and transcription,
+async analysis runs, structured scoring and rewrites. Built at HackEurope 2026 and kept going
+afterwards, through billing and launch hardening.
 
-## Signals From Recent Work
+Second-largest of four contributors, on the analysis pipeline and model routing.
 
-| Area | What I have been shipping |
-| --- | --- |
-| AI product systems | Analysis workflows, model-adjacent features, middleware hardening, test stabilization, and launch-critical fixes in collaborator work. |
-| Full-stack app delivery | Backend logic, frontend UX, stateful flows, and production cleanup across private product builds. |
-| Reliability before release | Redirect repair, auth protection, abuse prevention, regression stabilization, and pre-launch hardening. |
-| Iteration with taste | Interactive UI, mobile tuning, cleaner hierarchy, and product polish without losing engineering discipline. |
+`Next.js` &nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `MIT` &nbsp;·&nbsp; `live`
 
----
+### Also built
 
-## Engineering Style
+**[Rampart](https://github.com/aravmdn/rampart)** — AI coding agents run under enforced least
+privilege: Windows Job Objects for process containment, Low-Integrity filesystem restriction, and
+per-app-ID WFP outbound filters. Blocks fire at the OS level, and every blocked action comes back with
+an explanation instead of a silent failure.
+`Rust + Tauri` &nbsp;·&nbsp; `Apache-2.0`
 
-- I care about polish, but not at the expense of reliability.
-- I like AI work most when it is embedded in a real product, not presented as a novelty.
-- A lot of my useful work happens late in the cycle: fixing edge cases, stabilizing tests, and getting software ready to ship.
-- I would rather make a system durable than make a prototype look finished.
+**[CollabBoards](https://github.com/aravmdn/CollabBoards)** — real-time boards over Socket.IO with
+JWT access/refresh auth and a DB-backed integration suite. Shipped and deployed.
+`TypeScript` &nbsp;·&nbsp; `Prisma + PostgreSQL` &nbsp;·&nbsp; `MIT`
 
----
+**[CBL](https://github.com/aravmdn/CBL)** — a live installation where a singing bowl's pitch and a
+person's heartbeat drive the visuals. GPU-side in TouchDesigner and GLSL, running standalone on one
+laptop.
+`TouchDesigner` &nbsp;·&nbsp; `GLSL` &nbsp;·&nbsp; `Arduino`
 
-## Private Work, Public Signal
+### Stack
 
-The public side of this account is not the full story.
+`Python` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Rust` &nbsp;·&nbsp; `Next.js` &nbsp;·&nbsp; `React`
+&nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Tauri` &nbsp;·&nbsp; `TouchDesigner`
 
-**What is visible:**
-- sustained work in AI product engineering, full-stack systems, and release hardening
-- a contribution pattern centered on shipping features and then making them production-safe
-- repeated contribution in both personal and collaborator repositories, not just isolated experiments
+### Elsewhere
 
-**What that means in practice:**
-- I have worked on software where the hard part was not just building the feature, but making the feature hold up under real usage, real edge cases, and real deadlines.
-
----
-
-## Current Focus
-
-- shipping sharper AI-native product work with full-stack ownership
-- turning private project depth into a stronger public portfolio
-- building a public profile that reflects systems thinking as much as output
-
----
-
-<p align="center">
-  <sub>This README is intentionally written as a compact portfolio homepage, not a raw project index.</sub>
-</p>
+Zed Campus Ambassador, first cohort · [LinkedIn](https://www.linkedin.com/in/aravmadan/)
