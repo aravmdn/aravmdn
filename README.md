@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="./assets/header.svg" alt="Arav Madan — infrastructure for AI agents" width="100%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img src="./assets/header-dark.svg" alt="Arav Madan — infrastructure for AI agents" width="100%">
+</picture>
 
 Third year CS at TU/e, in Eindhoven. I build the infrastructure around AI agents — the parts
 that measure whether they work, and contain them when they don't.

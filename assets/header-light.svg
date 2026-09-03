@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" width="1200" height="210" role="img" aria-label="Arav Madan — infrastructure for AI agents">
+  <rect width="1200" height="210" fill="#ffffff"/>
+  <rect x="0" y="0" width="3" height="210" fill="#0969da"/>
+
+  <text x="76" y="106" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="54" font-weight="600" fill="#1f2328" letter-spacing="-1.4">Arav Madan</text>
+
+  <text x="78" y="145" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="19" fill="#59636e">Infrastructure for AI agents — measuring them, and containing them.</text>
+</svg>
